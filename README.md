@@ -11,3 +11,11 @@ A GUI for design the network topology
 
 
 ![image](https://user-images.githubusercontent.com/26968391/192946913-32868c29-f2a6-4123-9c68-5c89c162086c.png)
+
+如何使用？
+
+该组件基于Skiasharp，只需要在命名空间包含组件库，即可在xaml中使用
+
+                <ScrollViewer  HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Background="Gray">
+                    <network:SkiaNetworkGraphic x:Name="NetworkGraphicView" Width="1024" Height="960"></network:SkiaNetworkGraphic>
+                </ScrollViewer>
