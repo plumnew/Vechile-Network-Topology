@@ -10,7 +10,7 @@ A GUI for design the network topology
 此外在逻辑层构建完成后可以继续构建抽象层连接，例如以太网网的一个物理端口上可能存在多个应用端口，每个应用端口都有各自的可达范围等，以此为基础可以管理基于服务的通讯和基于信号矩阵的通讯，评估参数等目标。
 
 
-![image](https://user-images.githubusercontent.com/26968391/192946913-32868c29-f2a6-4123-9c68-5c89c162086c.png)
+![image](https://user-images.githubusercontent.com/26968391/194691804-4c102be5-7b25-4018-bba9-110253562121.png)
 
 如何使用？
 
